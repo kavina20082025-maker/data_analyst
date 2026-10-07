@@ -1,0 +1,6 @@
+{
+  "name": "Proof-Carrying Data Analyst",
+  "description": "Agentic GenAI data analytics engine that produces verified re-runnable code for every calculation, traps adversarial ambiguities, and knows when to say no.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
